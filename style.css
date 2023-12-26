@@ -1,3 +1,8 @@
+div{
+    width: 50%;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 #header{
     height: 80px;
     width: 1000px;
